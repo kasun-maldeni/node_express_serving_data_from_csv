@@ -4,5 +4,8 @@
 Parses CSV data to JSON and then serves it at an API endpoint.
 
 ### Usage
-1. In command-line type `npm start`
-2. In web browser navigate to `http://localhost:3000`
+1. Clone Repository and start program - terminal commands:
+  * Clone down - type: `git clone git@github.com:kasun-maldeni/node_express_serving_data_from_csv.git`
+  * Go to project directory - type: `cd node_express_serving_data_from_csv`
+  * Start server - type: `npm start`
+2. In web browser navigate to `http://localhost:3000` to see the data.
